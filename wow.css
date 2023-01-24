@@ -90,11 +90,13 @@ p {
 }
 
 ul {
-  font-size: 2em;
+  font-size: 1.6em;
   list-style-position: inside;
-  columns: 2;
+  columns: 1;
   list-style-type: '\2714\00A0\00A0';
-  color: purple;
+  color: rgb(10, 234, 73);
+  text-align: center;
+  display: block;
 }
 .mundos{
   margin: auto;
