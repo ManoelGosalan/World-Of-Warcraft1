@@ -16,7 +16,7 @@ header {
   width: 100%;
   height: 40%;
   top: 100%;
-  min-height: 250px;
+  min-height: 100px;
   background-image: url(image/World_of_Warcraft_header.jpg);
   background-size: cover;
   background-position: center;
